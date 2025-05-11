@@ -21,27 +21,27 @@ msgstr ""
 
 #: 404.php:20
 msgid "Oops, This Page Could Not Be Found!"
-msgstr ""
+msgstr "Ồ, không tìm thấy trang này!"
 
 #: 404.php:30
 msgid "Helpful Links"
-msgstr ""
+msgstr "Liên kết hữu ích"
 
 #: 404.php:97
 msgid "Search Our Website"
-msgstr ""
+msgstr "Tìm kiếm trang web của chúng tôi"
 
 #: 404.php:98
 msgid "Can't find what you need? Take a moment and do a search below!"
-msgstr ""
+msgstr "Không tìm thấy những gì bạn cần? Hãy thử tìm bên dưới!"
 
 #: bbpress/form-search.php:13 includes/class-avada-layout-bbpress.php:142
 #: includes/lib/inc/class-fusion-searchform.php:77
 msgid "Search for:"
-msgstr ""
+msgstr "Tìm kiếm cho"
 
 #: bbpress/form-search.php:16 includes/class-avada-layout-bbpress.php:145
-msgid "Search the Forum..."
+msgid "Tìm diễn đàn..."
 msgstr ""
 
 #: bbpress/form-search.php:19 includes/avada-functions.php:759
@@ -53,7 +53,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_template.php:255 includes/options/header.php:437
 #: includes/options/search.php:38
 msgid "Search"
-msgstr ""
+msgstr "Tìm"
 
 #: bbpress/loop-search-reply.php:38
 msgid "In reply to: "
@@ -61,7 +61,7 @@ msgstr ""
 
 #: bbpress/loop-search-topic.php:44
 msgid "Topic: "
-msgstr ""
+msgstr "Chủ đề"
 
 #: bbpress/loop-search-topic.php:49
 msgid "in group forum "
